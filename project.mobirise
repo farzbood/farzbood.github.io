@@ -374,7 +374,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/20220201-111030-712x346.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -495,27 +495,6 @@
                 "contentAlign": "center",
                 "text": "<br>تراس اختصاصی و پارکینگ مجزا برای هر ویلا<br>\n<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary display-7\" data-app-placeholder=\"Type Text\" href=\"tel:+989350853298\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>فقط با یک تماس سفر دل انگیز خود را آغازکنید</a> <a data-app-btn=\"true\" class=\"btn btn-primary display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#features4-4k\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>برای دسترسی به اطلاعات ویلاباغ در یک نگاه کلیک کنید</a>  ",
-                "overlayOpacity": "0.2",
-                "overlayColor": "#bbbbbb"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-0582-16-02-23-14-5-1920x1440.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-7",
-                "alt": "",
-                "title": "",
-                "textTitle": "<br><b>اقامتگاه های چشم انداز باغ</b>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "<br>دسترسی اختصاصی به استخر و ایوان (ویلای سه خواب)<br>\n<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary display-7\" data-app-placeholder=\"Type Text\" href=\"tel:+989350853298\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>تنها یک کلیک کافیست<br>بقیه کارها را به ما بسپارید&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary display-7\" data-app-placeholder=\"Type Text\" href=\"index.html#features4-4k\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>اطلاعات و قیمت ویلاها<br>در حد سرویسهای 4 ستاره<br></a>  ",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#bbbbbb"
               },
